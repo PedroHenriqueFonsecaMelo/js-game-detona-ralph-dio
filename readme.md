@@ -1,6 +1,6 @@
 ### Awesome JSGame Detona Ralph
 
-Game criado a partir de bootcamp dio e corregido baseado no repositorio oficial da mesma, direitos autorais dedicados aos originais.
+Game criado a partir de bootcamp dio e corregido baseado no repositório oficial da mesma, direitos autorais dedicados aos originais. `Read.me` baseado no conteúdo oficial.
 
 ### Tecnologias Utilizadas
 
